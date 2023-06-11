@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "engines": {
+    "node": ">=18 <19"
+  },
   "scripts": {
     "start": "node app.js",
     "update": "node ./utilities/scraper.js"
