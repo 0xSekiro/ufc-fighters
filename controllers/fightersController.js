@@ -23,6 +23,16 @@ exports.getFighter = (data) => {
   };
 };
 
+exports.getChampoins = (data) => {
+  return (req, res) => {
+    const champions = searchForChampoins(data);
+    res.status(200).json({
+      status: "success",
+      champions,
+    });
+  };
+};
+
 const searchForFighter = (arrOfObjs, fighterName) => {
   let fighter;
   for (let i = 0; i < arrOfObjs.length; i++) {
@@ -32,4 +42,13 @@ const searchForFighter = (arrOfObjs, fighterName) => {
     }
   }
   return fighter;
+};
+
+const searchForChampoins = (arrOfObjs) => {
+  const champions = arrOfObjs.filter((el) => {
+    if (el.champion == true) {
+      return el;
+    }
+  });
+  return champions;
 };

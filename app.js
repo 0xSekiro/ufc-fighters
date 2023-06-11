@@ -14,6 +14,7 @@ app.get("/fighters", (req, res) => {
     fighters: data,
   });
 });
+app.get("/fighters/champions", fightersController.getChampoins(data));
 app.get("/fighters/:name", fightersController.getFighter(data));
 
 app.all("*", (req, res) => {
