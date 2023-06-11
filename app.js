@@ -1,7 +1,5 @@
 const fs = require("fs");
-const data = JSON.parse(
-  fs.readFileSync(`${__dirname}/data/fighters.json`, "utf-8")
-);
+const data = JSON.parse(fs.readFileSync(`${__dirname}/fighters.json`, "utf-8"));
 const express = require("express");
 const app = express();
 

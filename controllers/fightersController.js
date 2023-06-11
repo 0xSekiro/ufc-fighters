@@ -1,6 +1,13 @@
 exports.getFighter = (data) => {
   return (req, res) => {
-    const name = req.params.name.split("_").join(" ");
+    const name = req.params.name
+      .toLowerCase()
+      .split("_")
+      .map((el) => {
+        const el2 = el[0].toUpperCase() + el.slice(1);
+        return el2;
+      })
+      .join(" ");
     const fighter = searchForFighter(data, name);
     if (!fighter) {
       res.status(404).json({

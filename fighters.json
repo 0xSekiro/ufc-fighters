@@ -110,6 +110,16 @@
     "champion": false
   },
   {
+    "name": "Cyborg Abreu",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Daniel Acacio",
     "nickname": "--",
     "height": "5'8",
@@ -360,6 +370,16 @@
     "champion": false
   },
   {
+    "name": "Abdul-Kareem Al-Selwady",
+    "nickname": "Pride of Palestine",
+    "height": "--",
+    "weight": 155,
+    "win": 14,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Mostapha Al-Turk",
     "nickname": "--",
     "height": "6'2",
@@ -404,7 +424,7 @@
     "nickname": "The Prince",
     "height": "5'5",
     "weight": 125,
-    "win": 16,
+    "win": 17,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -525,7 +545,7 @@
     "height": "5'9",
     "weight": 135,
     "win": 14,
-    "loss": 6,
+    "loss": 7,
     "draw": 0,
     "champion": false
   },
@@ -576,6 +596,16 @@
     "weight": 135,
     "win": 5,
     "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Talita Alencar",
+    "nickname": "--",
+    "height": "--",
+    "weight": 115,
+    "win": 4,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -854,7 +884,7 @@
     "nickname": "Malhadinho",
     "height": "6'3",
     "weight": 205,
-    "win": 18,
+    "win": 19,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -925,7 +955,7 @@
     "height": "5'8",
     "weight": 125,
     "win": 12,
-    "loss": 2,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -936,6 +966,16 @@
     "weight": 185,
     "win": 1,
     "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Patricia Alujas",
+    "nickname": "El Angel",
+    "height": "--",
+    "weight": 115,
+    "win": 9,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -1120,6 +1160,16 @@
     "champion": false
   },
   {
+    "name": "Hyder Amil",
+    "nickname": "The Hurricane",
+    "height": "--",
+    "weight": 145,
+    "win": 7,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Makwan Amirkhani",
     "nickname": "Mr. Finland",
     "height": "5'10",
@@ -1165,7 +1215,7 @@
     "height": "6'1",
     "weight": 185,
     "win": 15,
-    "loss": 7,
+    "loss": 8,
     "draw": 0,
     "champion": false
   },
@@ -1286,6 +1336,16 @@
     "weight": 125,
     "win": 12,
     "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Fellipe Andrew",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -1435,7 +1495,7 @@
     "height": "5'7",
     "weight": 135,
     "win": 24,
-    "loss": 9,
+    "loss": 10,
     "draw": 0,
     "champion": false
   },
@@ -1540,10 +1600,20 @@
     "champion": false
   },
   {
+    "name": "Gabriel Arges",
+    "nickname": "--",
+    "height": "--",
+    "weight": 170,
+    "win": 0,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Dan Argueta",
     "nickname": "The Determined",
     "height": "5'7",
-    "weight": 145,
+    "weight": 135,
     "win": 9,
     "loss": 1,
     "draw": 0,
@@ -1575,7 +1645,7 @@
     "height": "6'3",
     "weight": 240,
     "win": 34,
-    "loss": 21,
+    "loss": 22,
     "draw": 0,
     "champion": false
   },
@@ -1773,7 +1843,7 @@
     "name": "Khusein Askhabov",
     "nickname": "Nohcho",
     "height": "5'8",
-    "weight": 135,
+    "weight": 145,
     "win": 23,
     "loss": 1,
     "draw": 0,
@@ -2160,6 +2230,16 @@
     "champion": false
   },
   {
+    "name": "Bahatebole Batebolati",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 155,
+    "win": 8,
+    "loss": 1,
+    "draw": 1,
+    "champion": false
+  },
+  {
     "name": "Shamar Bailey",
     "nickname": "--",
     "height": "5'9",
@@ -2276,6 +2356,16 @@
     "weight": "--",
     "win": 2,
     "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shauna Bannon",
+    "nickname": "Mama B",
+    "height": "--",
+    "weight": 115,
+    "win": 5,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -2494,7 +2584,7 @@
     "nickname": "Powerbar",
     "height": "6'1",
     "weight": 185,
-    "win": 15,
+    "win": 16,
     "loss": 6,
     "draw": 0,
     "champion": false
@@ -2630,16 +2720,6 @@
     "champion": false
   },
   {
-    "name": "Bahatebole Batebolati",
-    "nickname": "--",
-    "height": "--",
-    "weight": 170,
-    "win": 7,
-    "loss": 1,
-    "draw": 1,
-    "champion": false
-  },
-  {
     "name": "Michel Batista",
     "nickname": "--",
     "height": "6'3",
@@ -2654,7 +2734,7 @@
     "nickname": "Pooh Bear",
     "height": "6'1",
     "weight": 170,
-    "win": 9,
+    "win": 10,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -2814,7 +2894,7 @@
     "nickname": "The Warrior Princess",
     "height": "5'7",
     "weight": 115,
-    "win": 14,
+    "win": 15,
     "loss": 7,
     "draw": 0,
     "champion": false
@@ -3225,7 +3305,7 @@
     "height": "5'8",
     "weight": 145,
     "win": 8,
-    "loss": 0,
+    "loss": 1,
     "draw": 1,
     "champion": false
   },
@@ -3384,7 +3464,7 @@
     "nickname": "The Monster",
     "height": "5'10",
     "weight": 135,
-    "win": 12,
+    "win": 13,
     "loss": 5,
     "draw": 1,
     "champion": false
@@ -3584,7 +3664,7 @@
     "nickname": "Monster",
     "height": "5'7",
     "weight": 125,
-    "win": 7,
+    "win": 8,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -3774,7 +3854,7 @@
     "nickname": "Slava Claus",
     "height": "5'11",
     "weight": 155,
-    "win": 6,
+    "win": 7,
     "loss": 3,
     "draw": 0,
     "champion": false
@@ -4090,6 +4170,16 @@
     "champion": false
   },
   {
+    "name": "Roman Bravo-Young",
+    "nickname": "--",
+    "height": "--",
+    "weight": 205,
+    "win": 0,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Mike Breeden",
     "nickname": "Money",
     "height": "5'10",
@@ -4230,6 +4320,16 @@
     "champion": false
   },
   {
+    "name": "Kaik Brito",
+    "nickname": "--",
+    "height": "--",
+    "weight": 155,
+    "win": 16,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Antwain Britt",
     "nickname": "The Juggernaut",
     "height": "6'1",
@@ -4314,7 +4414,7 @@
     "nickname": "The Immortal",
     "height": "6'0",
     "weight": 170,
-    "win": 25,
+    "win": 26,
     "loss": 19,
     "draw": 0,
     "champion": false
@@ -4460,6 +4560,16 @@
     "champion": false
   },
   {
+    "name": "Stephanie Bruna",
+    "nickname": "Rondinha",
+    "height": "--",
+    "weight": 115,
+    "win": 5,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Cody Brundage",
     "nickname": "--",
     "height": "6'0",
@@ -4564,7 +4674,7 @@
     "nickname": "New Mansa",
     "height": "5'10",
     "weight": 170,
-    "win": 15,
+    "win": 16,
     "loss": 6,
     "draw": 0,
     "champion": false
@@ -4666,6 +4776,16 @@
     "weight": 135,
     "win": 7,
     "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Felipe Bunes",
+    "nickname": "Felipinho",
+    "height": "--",
+    "weight": 125,
+    "win": 13,
+    "loss": 6,
     "draw": 0,
     "champion": false
   },
@@ -4900,6 +5020,16 @@
     "champion": false
   },
   {
+    "name": "Jesse Butler",
+    "nickname": "--",
+    "height": "5'10",
+    "weight": 155,
+    "win": 12,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "JP Buys",
     "nickname": "Young Savage",
     "height": "5'5",
@@ -4990,12 +5120,32 @@
     "champion": false
   },
   {
+    "name": "Igor Da Silva",
+    "nickname": "--",
+    "height": "--",
+    "weight": 125,
+    "win": 7,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Henrique Da Silva Lopes",
     "nickname": "Montanha",
     "height": "6'3",
     "weight": 240,
     "win": 5,
     "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Daermisi Zhawupasi",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 135,
+    "win": 7,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -5111,10 +5261,10 @@
   },
   {
     "name": "Peter Danesoe",
-    "nickname": "The Asia Viking",
-    "height": "--",
-    "weight": 135,
-    "win": 5,
+    "nickname": "The Asian Viking",
+    "height": "5'9",
+    "weight": 125,
+    "win": 6,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -5195,7 +5345,7 @@
     "height": "5'10",
     "weight": 155,
     "win": 22,
-    "loss": 4,
+    "loss": 5,
     "draw": 1,
     "champion": false
   },
@@ -5705,7 +5855,7 @@
     "height": "5'2",
     "weight": 115,
     "win": 9,
-    "loss": 4,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -5726,6 +5876,16 @@
     "weight": 135,
     "win": 11,
     "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jhonata Deniz",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 5,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -5764,7 +5924,7 @@
     "nickname": "--",
     "height": "5'4",
     "weight": 115,
-    "win": 12,
+    "win": 13,
     "loss": 3,
     "draw": 0,
     "champion": false
@@ -6273,7 +6433,7 @@
     "name": "Rafael Dos Anjos",
     "nickname": "--",
     "height": "5'8",
-    "weight": 155,
+    "weight": 170,
     "win": 32,
     "loss": 14,
     "draw": 0,
@@ -6535,7 +6695,7 @@
     "height": "5'2",
     "weight": 115,
     "win": 12,
-    "loss": 7,
+    "loss": 8,
     "draw": 0,
     "champion": false
   },
@@ -6775,7 +6935,7 @@
     "height": "5'5",
     "weight": 125,
     "win": 20,
-    "loss": 5,
+    "loss": 6,
     "draw": 0,
     "champion": false
   },
@@ -6824,7 +6984,7 @@
     "nickname": "Bruce Leeroy",
     "height": "5'10",
     "weight": 145,
-    "win": 20,
+    "win": 21,
     "loss": 13,
     "draw": 0,
     "champion": false
@@ -7574,7 +7734,7 @@
     "nickname": "Sexy Mexi",
     "height": "5'6",
     "weight": 135,
-    "win": 19,
+    "win": 20,
     "loss": 6,
     "draw": 0,
     "champion": false
@@ -8014,7 +8174,7 @@
     "nickname": "--",
     "height": "5'6",
     "weight": 125,
-    "win": 6,
+    "win": 7,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -8245,7 +8405,7 @@
     "height": "5'5",
     "weight": 135,
     "win": 11,
-    "loss": 8,
+    "loss": 9,
     "draw": 0,
     "champion": false
   },
@@ -8302,9 +8462,9 @@
   {
     "name": "Mark Climaco",
     "nickname": "--",
-    "height": "--",
+    "height": "5'4",
     "weight": 125,
-    "win": 8,
+    "win": 9,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -8865,7 +9025,7 @@
     "height": "5'11",
     "weight": 170,
     "win": 8,
-    "loss": 1,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -8933,7 +9093,7 @@
     "name": "Melquizael Costa",
     "nickname": "Melk Cauthy",
     "height": "5'10",
-    "weight": 155,
+    "weight": 145,
     "win": 19,
     "loss": 6,
     "draw": 0,
@@ -9093,7 +9253,7 @@
     "name": "Paul Craig",
     "nickname": "Bearjew",
     "height": "6'3",
-    "weight": 205,
+    "weight": 185,
     "win": 16,
     "loss": 6,
     "draw": 1,
@@ -9256,6 +9416,16 @@
     "weight": 145,
     "win": 8,
     "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Timothy Cuamba",
+    "nickname": "Twilight Timmy",
+    "height": "--",
+    "weight": 145,
+    "win": 6,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -9774,9 +9944,19 @@
     "nickname": "--",
     "height": "5'7",
     "weight": 125,
-    "win": 19,
+    "win": 20,
     "loss": 12,
     "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Oban Elliott",
+    "nickname": "Evil",
+    "height": "--",
+    "weight": 170,
+    "win": 8,
+    "loss": 2,
+    "draw": 0,
     "champion": false
   },
   {
@@ -10000,21 +10180,11 @@
     "champion": false
   },
   {
-    "name": "Stephen Erceg",
-    "nickname": "--",
-    "height": "--",
+    "name": "Steve Erceg",
+    "nickname": "Astroboy",
+    "height": "5'8",
     "weight": 125,
-    "win": 9,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Stephen Erczeg",
-    "nickname": "--",
-    "height": "--",
-    "weight": 125,
-    "win": 7,
+    "win": 10,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -10560,6 +10730,16 @@
     "champion": false
   },
   {
+    "name": "Feng Pengchao",
+    "nickname": "--",
+    "height": "--",
+    "weight": 135,
+    "win": 15,
+    "loss": 9,
+    "draw": 1,
+    "champion": false
+  },
+  {
     "name": "Kevin Ferguson",
     "nickname": "Kimbo Slice",
     "height": "6'2",
@@ -10664,7 +10844,7 @@
     "nickname": "--",
     "height": "5'9",
     "weight": 155,
-    "win": 17,
+    "win": 18,
     "loss": 5,
     "draw": 0,
     "champion": false
@@ -10715,7 +10895,7 @@
     "height": "6'0",
     "weight": 170,
     "win": 16,
-    "loss": 6,
+    "loss": 7,
     "draw": 0,
     "champion": false
   },
@@ -10885,7 +11065,7 @@
     "height": "5'10",
     "weight": 155,
     "win": 6,
-    "loss": 1,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -11465,7 +11645,7 @@
     "height": "5'3",
     "weight": 115,
     "win": 11,
-    "loss": 8,
+    "loss": 9,
     "draw": 0,
     "champion": false
   },
@@ -11515,7 +11695,7 @@
     "height": "6'1",
     "weight": 170,
     "win": 9,
-    "loss": 3,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -11704,8 +11884,8 @@
     "nickname": "Tajik",
     "height": "5'7",
     "weight": 135,
-    "win": 17,
-    "loss": 4,
+    "win": 18,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -11910,6 +12090,16 @@
     "champion": false
   },
   {
+    "name": "Junye Gao",
+    "nickname": "--",
+    "height": "--",
+    "weight": 125,
+    "win": 19,
+    "loss": 12,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Eduardo Garagorri",
     "nickname": "--",
     "height": "5'9",
@@ -12044,7 +12234,7 @@
     "nickname": "The Future",
     "height": "6'3",
     "weight": 170,
-    "win": 11,
+    "win": 12,
     "loss": 0,
     "draw": 0,
     "champion": false
@@ -12126,6 +12316,16 @@
     "weight": 155,
     "win": 7,
     "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shamil Gaziev",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 5,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -12422,10 +12622,10 @@
   {
     "name": "Eperaim Ginting",
     "nickname": "The Wolfman",
-    "height": "--",
-    "weight": 145,
+    "height": "5'4",
+    "weight": 135,
     "win": 6,
-    "loss": 0,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -12534,7 +12734,7 @@
     "nickname": "--",
     "height": "5'2",
     "weight": 115,
-    "win": 9,
+    "win": 10,
     "loss": 3,
     "draw": 0,
     "champion": false
@@ -12994,7 +13194,7 @@
     "nickname": "The Answer",
     "height": "6'1",
     "weight": 170,
-    "win": 10,
+    "win": 11,
     "loss": 4,
     "draw": 0,
     "champion": false
@@ -13415,7 +13615,7 @@
     "height": "5'10",
     "weight": 170,
     "win": 11,
-    "loss": 4,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -13490,6 +13690,16 @@
     "champion": false
   },
   {
+    "name": "Charalampos Grigoriou",
+    "nickname": "The Ferocious",
+    "height": "--",
+    "weight": 135,
+    "win": 7,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Chuck Grigsby",
     "nickname": "The Reverend",
     "height": "6'6",
@@ -13515,7 +13725,7 @@
     "height": "6'3",
     "weight": 205,
     "win": 32,
-    "loss": 9,
+    "loss": 10,
     "draw": 2,
     "champion": false
   },
@@ -13616,6 +13826,16 @@
     "weight": 145,
     "win": 21,
     "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Raine Guerrero",
+    "nickname": "--",
+    "height": "--",
+    "weight": 115,
+    "win": 5,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -14090,6 +14310,16 @@
     "champion": false
   },
   {
+    "name": "Chad Hanekom",
+    "nickname": "Superman",
+    "height": "--",
+    "weight": 185,
+    "win": 9,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Joachim Hansen",
     "nickname": "Hellboy",
     "height": "5'7",
@@ -14122,9 +14352,9 @@
   {
     "name": "Shin Haraguchi",
     "nickname": "--",
-    "height": "--",
+    "height": "5'6",
     "weight": 155,
-    "win": 5,
+    "win": 6,
     "loss": 0,
     "draw": 0,
     "champion": false
@@ -14146,6 +14376,16 @@
     "weight": 245,
     "win": 8,
     "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "George Hardwick",
+    "nickname": "--",
+    "height": "--",
+    "weight": 155,
+    "win": 12,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -14176,6 +14416,16 @@
     "weight": 265,
     "win": 7,
     "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Tobias Harila",
+    "nickname": "Bad Intention",
+    "height": "--",
+    "weight": "--",
+    "win": 12,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -14834,7 +15084,7 @@
     "nickname": "Fluffy",
     "height": "6'0",
     "weight": 185,
-    "win": 10,
+    "win": 11,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -15065,7 +15315,7 @@
     "height": "5'3",
     "weight": 115,
     "win": 15,
-    "loss": 12,
+    "loss": 13,
     "draw": 0,
     "champion": false
   },
@@ -15192,10 +15442,10 @@
   {
     "name": "Chris Hofmann",
     "nickname": "--",
-    "height": "--",
+    "height": "6'0",
     "weight": 170,
-    "win": 8,
-    "loss": 1,
+    "win": 9,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -15420,12 +15670,12 @@
     "champion": false
   },
   {
-    "name": "Sung Chan Hong",
-    "nickname": "T-ARA",
-    "height": "--",
+    "name": "SeongChan Hong",
+    "nickname": "Honey Badger",
+    "height": "5'7",
     "weight": 155,
     "win": 9,
-    "loss": 1,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -15474,7 +15724,7 @@
     "nickname": "The Dream",
     "height": "6'1",
     "weight": 155,
-    "win": 11,
+    "win": 12,
     "loss": 3,
     "draw": 1,
     "champion": false
@@ -15924,7 +16174,7 @@
     "nickname": "50K",
     "height": "5'7",
     "weight": 145,
-    "win": 16,
+    "win": 17,
     "loss": 6,
     "draw": 0,
     "champion": false
@@ -16564,7 +16814,7 @@
     "nickname": "--",
     "height": "5'7",
     "weight": 125,
-    "win": 8,
+    "win": 9,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -16730,22 +16980,12 @@
     "champion": false
   },
   {
-    "name": "Ji Niushiyue",
-    "nickname": "Little King Kong",
-    "height": "--",
-    "weight": 125,
-    "win": 10,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
     "name": "Baergeng Jieleyisi",
     "nickname": "--",
-    "height": "--",
-    "weight": 145,
+    "height": "5'9",
+    "weight": 135,
     "win": 12,
-    "loss": 3,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -16786,6 +17026,16 @@
     "weight": 155,
     "win": 36,
     "loss": 11,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "-- Jiniushiyue",
+    "nickname": "Little King Kong",
+    "height": "5'8",
+    "weight": 125,
+    "win": 12,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -16925,7 +17175,7 @@
     "height": "5'10",
     "weight": 155,
     "win": 22,
-    "loss": 18,
+    "loss": 19,
     "draw": 0,
     "champion": false
   },
@@ -17226,6 +17476,16 @@
     "weight": 155,
     "win": 11,
     "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Craig Jones",
+    "nickname": "--",
+    "height": "--",
+    "weight": 205,
+    "win": 0,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -17572,9 +17832,9 @@
   {
     "name": "Shuya Kamikubo",
     "nickname": "Stealth",
-    "height": "--",
-    "weight": 145,
-    "win": 12,
+    "height": "5'5",
+    "weight": 135,
+    "win": 13,
     "loss": 1,
     "draw": 1,
     "champion": false
@@ -17590,11 +17850,11 @@
     "champion": false
   },
   {
-    "name": "Kouya Kanda",
-    "nickname": "--",
-    "height": "--",
-    "weight": "--",
-    "win": 11,
+    "name": "Koya Kanda",
+    "nickname": "Bushido",
+    "height": "5'9",
+    "weight": 145,
+    "win": 12,
     "loss": 4,
     "draw": 0,
     "champion": false
@@ -17685,7 +17945,7 @@
     "height": "5'4",
     "weight": 125,
     "win": 24,
-    "loss": 10,
+    "loss": 11,
     "draw": 0,
     "champion": false
   },
@@ -18124,8 +18384,8 @@
     "nickname": "The Danger",
     "height": "5'11",
     "weight": 155,
-    "win": 16,
-    "loss": 8,
+    "win": 17,
+    "loss": 9,
     "draw": 0,
     "champion": false
   },
@@ -18255,7 +18515,7 @@
     "height": "5'7",
     "weight": 125,
     "win": 9,
-    "loss": 6,
+    "loss": 7,
     "draw": 2,
     "champion": false
   },
@@ -18275,7 +18535,7 @@
     "height": "6'1",
     "weight": 170,
     "win": 13,
-    "loss": 4,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -18290,21 +18550,21 @@
     "champion": false
   },
   {
-    "name": "Sang Uk Kim",
-    "nickname": "--",
-    "height": "--",
-    "weight": "--",
-    "win": 7,
+    "name": "Sangwook Kim",
+    "nickname": "Frogman",
+    "height": "6'0",
+    "weight": 155,
+    "win": 8,
     "loss": 2,
     "draw": 0,
     "champion": false
   },
   {
-    "name": "Sang Won Kim",
-    "nickname": "--",
-    "height": "--",
+    "name": "SangWon Kim",
+    "nickname": "No Problem",
+    "height": "5'9",
     "weight": 145,
-    "win": 9,
+    "win": 10,
     "loss": 5,
     "draw": 1,
     "champion": false
@@ -18434,8 +18694,8 @@
     "nickname": "--",
     "height": "5'5",
     "weight": 125,
-    "win": 8,
-    "loss": 4,
+    "win": 9,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -18784,7 +19044,7 @@
     "nickname": "--",
     "height": "5'3",
     "weight": 115,
-    "win": 14,
+    "win": 15,
     "loss": 7,
     "draw": 0,
     "champion": false
@@ -18921,11 +19181,11 @@
   },
   {
     "name": "Sumit Kumar",
-    "nickname": "--",
-    "height": "--",
-    "weight": 135,
-    "win": 7,
-    "loss": 0,
+    "nickname": "The Indian Kid",
+    "height": "5'5",
+    "weight": 125,
+    "win": 8,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -19033,7 +19293,7 @@
     "name": "Guram Kutateladze",
     "nickname": "Georgian Viking",
     "height": "5'11",
-    "weight": 155,
+    "weight": 145,
     "win": 12,
     "loss": 3,
     "draw": 0,
@@ -19125,7 +19385,7 @@
     "height": "5'7",
     "weight": 135,
     "win": 12,
-    "loss": 2,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -19156,6 +19416,16 @@
     "weight": 170,
     "win": 14,
     "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Corinne Laframboise",
+    "nickname": "--",
+    "height": "--",
+    "weight": 125,
+    "win": 8,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -19265,7 +19535,7 @@
     "height": "5'9",
     "weight": 145,
     "win": 17,
-    "loss": 4,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -19425,7 +19695,7 @@
     "height": "5'10",
     "weight": 230,
     "win": 17,
-    "loss": 8,
+    "loss": 9,
     "draw": 0,
     "champion": false
   },
@@ -19810,21 +20080,21 @@
     "champion": false
   },
   {
-    "name": "Jung Hyun Lee",
-    "nickname": "Doraemon",
-    "height": "--",
+    "name": "JungHyun Lee",
+    "nickname": "The Phenom",
+    "height": "5'5",
     "weight": 125,
-    "win": 3,
-    "loss": 0,
+    "win": 8,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
   {
-    "name": "Chang Ho Lee",
+    "name": "ChangHo Lee",
     "nickname": "--",
-    "height": "--",
-    "weight": 125,
-    "win": 7,
+    "height": "5'8",
+    "weight": 135,
+    "win": 8,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -19975,7 +20245,7 @@
     "height": "5'5",
     "weight": 125,
     "win": 9,
-    "loss": 5,
+    "loss": 6,
     "draw": 0,
     "champion": false
   },
@@ -20192,9 +20462,9 @@
   {
     "name": "Li Kaiwen",
     "nickname": "The Underdog",
-    "height": "--",
+    "height": "5'9",
     "weight": 145,
-    "win": 10,
+    "win": 11,
     "loss": 5,
     "draw": 0,
     "champion": false
@@ -20424,7 +20694,7 @@
     "nickname": "Monstro",
     "height": "6'2",
     "weight": 205,
-    "win": 16,
+    "win": 17,
     "loss": 5,
     "draw": 0,
     "champion": false
@@ -20442,9 +20712,9 @@
   {
     "name": "Tainara Lisboa",
     "nickname": "Thai Panther",
-    "height": "5'6",
+    "height": "5'7",
     "weight": 135,
-    "win": 5,
+    "win": 6,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -20640,6 +20910,16 @@
     "champion": false
   },
   {
+    "name": "Bruno Lopes",
+    "nickname": "Brunao",
+    "height": "--",
+    "weight": 205,
+    "win": 11,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Ivan Lopez",
     "nickname": "--",
     "height": "5'6",
@@ -20801,11 +21081,21 @@
   },
   {
     "name": "Lu Kai",
-    "nickname": "--",
+    "nickname": "The Last Gladiator",
     "height": "5'9",
     "weight": 145,
     "win": 8,
-    "loss": 4,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Lu Zhengyong",
+    "nickname": "--",
+    "height": "--",
+    "weight": 125,
+    "win": 12,
+    "loss": 7,
     "draw": 0,
     "champion": false
   },
@@ -20967,1086 +21257,6 @@
     "win": 31,
     "loss": 18,
     "draw": 5,
-    "champion": false
-  },
-  {
-    "name": "Katsuhiko Nagata",
-    "nickname": "--",
-    "height": "5'7",
-    "weight": 154,
-    "win": 6,
-    "loss": 7,
-    "draw": 3,
-    "champion": false
-  },
-  {
-    "name": "Yuji Nagata",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 225,
-    "win": 0,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Greg Nagy",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 210,
-    "win": 1,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Logan Nail",
-    "nickname": "--",
-    "height": "--",
-    "weight": 185,
-    "win": 1,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Muhammad Naimov",
-    "nickname": "Hillman",
-    "height": "5'9",
-    "weight": 145,
-    "win": 5,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Yukiya Naito",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 205,
-    "win": 15,
-    "loss": 6,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Andrews Nakahara",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 185,
-    "win": 5,
-    "loss": 4,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Rin Nakai",
-    "nickname": "--",
-    "height": "5'1",
-    "weight": 135,
-    "win": 19,
-    "loss": 2,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Kazuhiro Nakamura",
-    "nickname": "Kaz",
-    "height": "5'11",
-    "weight": 205,
-    "win": 21,
-    "loss": 13,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Keita Nakamura",
-    "nickname": "K-Taro",
-    "height": "5'11",
-    "weight": 170,
-    "win": 34,
-    "loss": 10,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Daisuke Nakamura",
-    "nickname": "--",
-    "height": "5'7",
-    "weight": 154,
-    "win": 28,
-    "loss": 19,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Yusaku Nakamura",
-    "nickname": "--",
-    "height": "5'5",
-    "weight": 145,
-    "win": 14,
-    "loss": 4,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Rinya Nakamura",
-    "nickname": "Hybrid",
-    "height": "5'7",
-    "weight": 135,
-    "win": 7,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jutaro Nakao",
-    "nickname": "--",
-    "height": "5'9",
-    "weight": 170,
-    "win": 25,
-    "loss": 19,
-    "draw": 4,
-    "champion": false
-  },
-  {
-    "name": "Yoshihiro Nakao",
-    "nickname": "Kiss",
-    "height": "6'0",
-    "weight": 220,
-    "win": 9,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Yui Chul Nam",
-    "nickname": "The Korean Bulldozer",
-    "height": "5'9",
-    "weight": 145,
-    "win": 18,
-    "loss": 8,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Tyson Nam",
-    "nickname": "--",
-    "height": "5'7",
-    "weight": 125,
-    "win": 21,
-    "loss": 13,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Rose Namajunas",
-    "nickname": "Thug",
-    "height": "5'5",
-    "weight": 115,
-    "win": 12,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Yasuhito Namekawa",
-    "nickname": "--",
-    "height": "5'9",
-    "weight": 205,
-    "win": 25,
-    "loss": 16,
-    "draw": 4,
-    "champion": false
-  },
-  {
-    "name": "Nad Narimani",
-    "nickname": "Smiler",
-    "height": "5'8",
-    "weight": 145,
-    "win": 12,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Roger Narvaez",
-    "nickname": "Silverback",
-    "height": "6'3",
-    "weight": 185,
-    "win": 8,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Fabio Nascimento",
-    "nickname": "Negao",
-    "height": "5'10",
-    "weight": 185,
-    "win": 11,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Allan Nascimento",
-    "nickname": "Puro Osso",
-    "height": "5'8",
-    "weight": 125,
-    "win": 20,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Rodrigo Nascimento",
-    "nickname": "Ze Colmeia",
-    "height": "6'2",
-    "weight": 246,
-    "win": 9,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Bobby Nash",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 170,
-    "win": 8,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Reza Nasri",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 205,
-    "win": 0,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Nasrudin Nasrudinov",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 205,
-    "win": 9,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Pawel Nastula",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 230,
-    "win": 5,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Rafael Natal",
-    "nickname": "Sapo",
-    "height": "6'0",
-    "weight": 185,
-    "win": 21,
-    "loss": 9,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Kevin Natividad",
-    "nickname": "Quicksand",
-    "height": "5'6",
-    "weight": 135,
-    "win": 9,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Ismail Naurdiev",
-    "nickname": "The Austrian Wonderboy",
-    "height": "5'10",
-    "weight": 170,
-    "win": 19,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Danny Navarro",
-    "nickname": "--",
-    "height": "5'10",
-    "weight": 155,
-    "win": 17,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Marcio Navarro",
-    "nickname": "The Locomotive",
-    "height": "6'0",
-    "weight": 155,
-    "win": 14,
-    "loss": 14,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Tafon Nchukwi",
-    "nickname": "Da Don",
-    "height": "6'0",
-    "weight": 205,
-    "win": 6,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Dustin Neace",
-    "nickname": "The Beast",
-    "height": "5'9",
-    "weight": 145,
-    "win": 25,
-    "loss": 21,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Josh Neal",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 185,
-    "win": 5,
-    "loss": 11,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Joe Neal",
-    "nickname": "Nine Lives",
-    "height": "5'6",
-    "weight": 135,
-    "win": 6,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Geoff Neal",
-    "nickname": "Handz of Steel",
-    "height": "5'11",
-    "weight": 170,
-    "win": 15,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Stanislav Nedkov",
-    "nickname": "Stucky",
-    "height": "5'11",
-    "weight": 205,
-    "win": 12,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Josh Neer",
-    "nickname": "The Dentist",
-    "height": "5'11",
-    "weight": 170,
-    "win": 36,
-    "loss": 16,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Nicolae Negumereanu",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 205,
-    "win": 13,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Steve Nelmark",
-    "nickname": "The Sandman",
-    "height": "6'0",
-    "weight": 240,
-    "win": 2,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Shane Nelson",
-    "nickname": "Sugar",
-    "height": "5'9",
-    "weight": 155,
-    "win": 16,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Roy Nelson",
-    "nickname": "Big Country",
-    "height": "6'0",
-    "weight": 263,
-    "win": 22,
-    "loss": 14,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Gunnar Nelson",
-    "nickname": "Gunni",
-    "height": "5'11",
-    "weight": 170,
-    "win": 19,
-    "loss": 5,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Kyle Nelson",
-    "nickname": "The Monster",
-    "height": "5'11",
-    "weight": 145,
-    "win": 13,
-    "loss": 5,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Lissette Neri",
-    "nickname": "--",
-    "height": "5'2",
-    "weight": 145,
-    "win": 6,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Mario Neto",
-    "nickname": "Sukata",
-    "height": "6'0",
-    "weight": 229,
-    "win": 13,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Antonio Braga Neto",
-    "nickname": "--",
-    "height": "6'3",
-    "weight": 185,
-    "win": 9,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Eduardo Neves",
-    "nickname": "Bebezao",
-    "height": "6'2",
-    "weight": 265,
-    "win": 5,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Julio Cesar Neves Jr.",
-    "nickname": "Morceguinho",
-    "height": "5'8",
-    "weight": 145,
-    "win": 33,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Nick Newell",
-    "nickname": "Notorious",
-    "height": "5'10",
-    "weight": 155,
-    "win": 14,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Journey Newson",
-    "nickname": "--",
-    "height": "5'5",
-    "weight": 135,
-    "win": 10,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jeff Newton",
-    "nickname": "--",
-    "height": "6'2",
-    "weight": 205,
-    "win": 4,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Carlos Newton",
-    "nickname": "The Ronin",
-    "height": "5'9",
-    "weight": 170,
-    "win": 16,
-    "loss": 14,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Emanuel Newton",
-    "nickname": "The Hardcore Kid",
-    "height": "6'1",
-    "weight": 205,
-    "win": 26,
-    "loss": 12,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Francis Ngannou",
-    "nickname": "The Predator",
-    "height": "6'4",
-    "weight": 250,
-    "win": 17,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Ben Nguyen",
-    "nickname": "Ten",
-    "height": "5'5",
-    "weight": 125,
-    "win": 16,
-    "loss": 8,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Steven Nguyen",
-    "nickname": "The Ninja",
-    "height": "5'11",
-    "weight": 145,
-    "win": 8,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Alex Nicholson",
-    "nickname": "The Spartan",
-    "height": "6'4",
-    "weight": 185,
-    "win": 7,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Bo Nickal",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 185,
-    "win": 4,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Mike Nickels",
-    "nickname": "--",
-    "height": "6'4",
-    "weight": 205,
-    "win": 9,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Matheus Nicolau",
-    "nickname": "--",
-    "height": "5'6",
-    "weight": 125,
-    "win": 19,
-    "loss": 4,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Jaimelene Nievera",
-    "nickname": "Queenie",
-    "height": "5'5",
-    "weight": 125,
-    "win": 7,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Khomkrit Niimi",
-    "nickname": "The Bumblebee",
-    "height": "5'2",
-    "weight": 125,
-    "win": 6,
-    "loss": 10,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Tom Niinimaki",
-    "nickname": "Stoneface",
-    "height": "5'9",
-    "weight": 145,
-    "win": 22,
-    "loss": 8,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Ramsey Nijem",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 155,
-    "win": 9,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Hans Nijman",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 250,
-    "win": 9,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jack Nilson",
-    "nickname": "--",
-    "height": "--",
-    "weight": "--",
-    "win": 2,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Mats Nilsson",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 170,
-    "win": 11,
-    "loss": 4,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Guangyou Ning",
-    "nickname": "Smasher",
-    "height": "5'4",
-    "weight": 145,
-    "win": 5,
-    "loss": 4,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Soichi Nishida",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 320,
-    "win": 5,
-    "loss": 10,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Yosuke Nishijima",
-    "nickname": "--",
-    "height": "5'9",
-    "weight": 205,
-    "win": 0,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Yamato Nishikawa",
-    "nickname": "--",
-    "height": "5'7",
-    "weight": 155,
-    "win": 21,
-    "loss": 3,
-    "draw": 6,
-    "champion": false
-  },
-  {
-    "name": "Akiyo Nishiura",
-    "nickname": "Wicky Akiyo",
-    "height": "5'8",
-    "weight": 139,
-    "win": 13,
-    "loss": 8,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Anthony Njokuani",
-    "nickname": "The Assassin",
-    "height": "6'1",
-    "weight": 155,
-    "win": 16,
-    "loss": 12,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Chidi Njokuani",
-    "nickname": "Bang Bang",
-    "height": "6'3",
-    "weight": 185,
-    "win": 22,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Derrick Noble",
-    "nickname": "The Eraser",
-    "height": "5'9",
-    "weight": 170,
-    "win": 27,
-    "loss": 15,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Kyle Noblitt",
-    "nickname": "--",
-    "height": "6'2",
-    "weight": 243,
-    "win": 11,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Pedro Nobre",
-    "nickname": "The Rock",
-    "height": "5'5",
-    "weight": 135,
-    "win": 18,
-    "loss": 4,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Jacob Noe",
-    "nickname": "Psycho",
-    "height": "--",
-    "weight": 205,
-    "win": 3,
-    "loss": 11,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Antonio Rodrigo Nogueira",
-    "nickname": "Minotauro",
-    "height": "6'3",
-    "weight": 240,
-    "win": 34,
-    "loss": 10,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Rogerio Nogueira",
-    "nickname": "Minotouro",
-    "height": "6'2",
-    "weight": 205,
-    "win": 23,
-    "loss": 10,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Alexandre Franca Nogueira",
-    "nickname": "Pequeno",
-    "height": "5'7",
-    "weight": 145,
-    "win": 18,
-    "loss": 6,
-    "draw": 3,
-    "champion": false
-  },
-  {
-    "name": "Talita Nogueira",
-    "nickname": "Treta",
-    "height": "5'10",
-    "weight": 145,
-    "win": 6,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Kyle Noke",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 170,
-    "win": 22,
-    "loss": 10,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Tom Nolan",
-    "nickname": "Big Train",
-    "height": "--",
-    "weight": 155,
-    "win": 5,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Nick Nolte",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 170,
-    "win": 5,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "KJ Noons",
-    "nickname": "King",
-    "height": "5'10",
-    "weight": 155,
-    "win": 13,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Sage Northcutt",
-    "nickname": "Super",
-    "height": "6'0",
-    "weight": 170,
-    "win": 11,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jan Nortje",
-    "nickname": "The Giant",
-    "height": "6'1",
-    "weight": 310,
-    "win": 2,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Scott Norton",
-    "nickname": "Hollywood",
-    "height": "5'10",
-    "weight": 170,
-    "win": 7,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Shohei Nose",
-    "nickname": "--",
-    "height": "5'6",
-    "weight": 135,
-    "win": 9,
-    "loss": 3,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Jonatas Novaes",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 170,
-    "win": 13,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jason Novelli",
-    "nickname": "Flipside",
-    "height": "6'0",
-    "weight": 155,
-    "win": 11,
-    "loss": 3,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Phillipe Nover",
-    "nickname": "The Filipino Assassin",
-    "height": "5'9",
-    "weight": 145,
-    "win": 11,
-    "loss": 8,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Taiyilake Nueraji",
-    "nickname": "Super Saiyan",
-    "height": "--",
-    "weight": 170,
-    "win": 8,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Shayilan Nuerdanbieke",
-    "nickname": "Wolverine",
-    "height": "5'8",
-    "weight": 145,
-    "win": 39,
-    "loss": 11,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Diego Nunes",
-    "nickname": "The Gun",
-    "height": "5'6",
-    "weight": 145,
-    "win": 19,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Amanda Nunes",
-    "nickname": "The Lioness",
-    "height": "5'8",
-    "weight": 135,
-    "win": 22,
-    "loss": 5,
-    "draw": 0,
-    "champion": true
-  },
-  {
-    "name": "Nina Nunes",
-    "nickname": "--",
-    "height": "5'5",
-    "weight": 125,
-    "win": 11,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Istela Nunes",
-    "nickname": "--",
-    "height": "5'4",
-    "weight": 115,
-    "win": 6,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Josiane Nunes",
-    "nickname": "Josi",
-    "height": "5'2",
-    "weight": 145,
-    "win": 10,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Khabib Nurmagomedov",
-    "nickname": "The Eagle",
-    "height": "5'10",
-    "weight": 155,
-    "win": 29,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Said Nurmagomedov",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 135,
-    "win": 17,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Abubakar Nurmagomedov",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 170,
-    "win": 17,
-    "loss": 3,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Umar Nurmagomedov",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 135,
-    "win": 16,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Kennedy Nzechukwu",
-    "nickname": "African Savage",
-    "height": "6'5",
-    "weight": 205,
-    "win": 12,
-    "loss": 3,
-    "draw": 0,
     "champion": false
   },
   {
@@ -22445,7 +21655,7 @@
     "height": "6'0",
     "weight": 155,
     "win": 9,
-    "loss": 2,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -22644,9 +21854,19 @@
     "nickname": "Proper",
     "height": "6'1",
     "weight": 170,
-    "win": 9,
+    "win": 10,
     "loss": 1,
     "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Dan Manasoiu",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
+    "draw": 0,
     "champion": false
   },
   {
@@ -23221,11 +22441,11 @@
   },
   {
     "name": "Kazuma Maruyama",
-    "nickname": "--",
-    "height": "--",
-    "weight": 170,
-    "win": 12,
-    "loss": 6,
+    "nickname": "Gluttony",
+    "height": "5'11",
+    "weight": 155,
+    "win": 11,
+    "loss": 7,
     "draw": 0,
     "champion": false
   },
@@ -23405,7 +22625,7 @@
     "height": "5'3",
     "weight": 125,
     "win": 13,
-    "loss": 4,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -23454,7 +22674,7 @@
     "nickname": "Lord Kong",
     "height": "6'6",
     "weight": 260,
-    "win": 9,
+    "win": 10,
     "loss": 5,
     "draw": 0,
     "champion": false
@@ -23715,7 +22935,7 @@
     "height": "5'11",
     "weight": 170,
     "win": 22,
-    "loss": 11,
+    "loss": 12,
     "draw": 0,
     "champion": false
   },
@@ -23925,7 +23145,7 @@
     "height": "6'2",
     "weight": 170,
     "win": 32,
-    "loss": 14,
+    "loss": 15,
     "draw": 1,
     "champion": false
   },
@@ -24270,6 +23490,16 @@
     "champion": false
   },
   {
+    "name": "Nick Meregali",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Joe Merritt",
     "nickname": "--",
     "height": "6'0",
@@ -24484,7 +23714,7 @@
     "nickname": "A-10",
     "height": "5'8",
     "weight": 155,
-    "win": 35,
+    "win": 36,
     "loss": 17,
     "draw": 0,
     "champion": false
@@ -25424,7 +24654,7 @@
     "nickname": "The Great White",
     "height": "5'11",
     "weight": 170,
-    "win": 22,
+    "win": 23,
     "loss": 8,
     "draw": 0,
     "champion": false
@@ -25665,7 +24895,7 @@
     "height": "6'0",
     "weight": 155,
     "win": 16,
-    "loss": 5,
+    "loss": 6,
     "draw": 0,
     "champion": false
   },
@@ -25725,7 +24955,7 @@
     "height": "5'9",
     "weight": 135,
     "win": 12,
-    "loss": 2,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -25990,6 +25220,1826 @@
     "champion": false
   },
   {
+    "name": "Katsuhiko Nagata",
+    "nickname": "--",
+    "height": "5'7",
+    "weight": 154,
+    "win": 6,
+    "loss": 7,
+    "draw": 3,
+    "champion": false
+  },
+  {
+    "name": "Yuji Nagata",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 225,
+    "win": 0,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Greg Nagy",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 210,
+    "win": 1,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Logan Nail",
+    "nickname": "--",
+    "height": "--",
+    "weight": 185,
+    "win": 1,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Muhammad Naimov",
+    "nickname": "Hillman",
+    "height": "5'9",
+    "weight": 155,
+    "win": 9,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Yukiya Naito",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 205,
+    "win": 15,
+    "loss": 6,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Andrews Nakahara",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 185,
+    "win": 5,
+    "loss": 4,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Rin Nakai",
+    "nickname": "--",
+    "height": "5'1",
+    "weight": 135,
+    "win": 19,
+    "loss": 2,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Kazuhiro Nakamura",
+    "nickname": "Kaz",
+    "height": "5'11",
+    "weight": 205,
+    "win": 21,
+    "loss": 13,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Keita Nakamura",
+    "nickname": "K-Taro",
+    "height": "5'11",
+    "weight": 170,
+    "win": 34,
+    "loss": 10,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Daisuke Nakamura",
+    "nickname": "--",
+    "height": "5'7",
+    "weight": 154,
+    "win": 28,
+    "loss": 19,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Yusaku Nakamura",
+    "nickname": "--",
+    "height": "5'5",
+    "weight": 145,
+    "win": 14,
+    "loss": 4,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Rinya Nakamura",
+    "nickname": "Hybrid",
+    "height": "5'7",
+    "weight": 135,
+    "win": 7,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jutaro Nakao",
+    "nickname": "--",
+    "height": "5'9",
+    "weight": 170,
+    "win": 25,
+    "loss": 19,
+    "draw": 4,
+    "champion": false
+  },
+  {
+    "name": "Yoshihiro Nakao",
+    "nickname": "Kiss",
+    "height": "6'0",
+    "weight": 220,
+    "win": 9,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Yui Chul Nam",
+    "nickname": "The Korean Bulldozer",
+    "height": "5'9",
+    "weight": 145,
+    "win": 18,
+    "loss": 8,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Tyson Nam",
+    "nickname": "--",
+    "height": "5'7",
+    "weight": 125,
+    "win": 21,
+    "loss": 13,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Rose Namajunas",
+    "nickname": "Thug",
+    "height": "5'5",
+    "weight": 115,
+    "win": 12,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Yasuhito Namekawa",
+    "nickname": "--",
+    "height": "5'9",
+    "weight": 205,
+    "win": 25,
+    "loss": 16,
+    "draw": 4,
+    "champion": false
+  },
+  {
+    "name": "Nad Narimani",
+    "nickname": "Smiler",
+    "height": "5'8",
+    "weight": 145,
+    "win": 12,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Roger Narvaez",
+    "nickname": "Silverback",
+    "height": "6'3",
+    "weight": 185,
+    "win": 8,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Fabio Nascimento",
+    "nickname": "Negao",
+    "height": "5'10",
+    "weight": 185,
+    "win": 11,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Allan Nascimento",
+    "nickname": "Puro Osso",
+    "height": "5'8",
+    "weight": 125,
+    "win": 20,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Rodrigo Nascimento",
+    "nickname": "Ze Colmeia",
+    "height": "6'2",
+    "weight": 246,
+    "win": 10,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Bobby Nash",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 170,
+    "win": 8,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Reza Nasri",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 205,
+    "win": 0,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Nasrudin Nasrudinov",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 205,
+    "win": 9,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Pawel Nastula",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 230,
+    "win": 5,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Rafael Natal",
+    "nickname": "Sapo",
+    "height": "6'0",
+    "weight": 185,
+    "win": 21,
+    "loss": 9,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Kevin Natividad",
+    "nickname": "Quicksand",
+    "height": "5'6",
+    "weight": 135,
+    "win": 9,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Ismail Naurdiev",
+    "nickname": "The Austrian Wonderboy",
+    "height": "5'10",
+    "weight": 170,
+    "win": 19,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Danny Navarro",
+    "nickname": "--",
+    "height": "5'10",
+    "weight": 155,
+    "win": 17,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Marcio Navarro",
+    "nickname": "The Locomotive",
+    "height": "6'0",
+    "weight": 155,
+    "win": 14,
+    "loss": 14,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Tafon Nchukwi",
+    "nickname": "Da Don",
+    "height": "6'0",
+    "weight": 205,
+    "win": 6,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Dustin Neace",
+    "nickname": "The Beast",
+    "height": "5'9",
+    "weight": 145,
+    "win": 25,
+    "loss": 21,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Josh Neal",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 185,
+    "win": 5,
+    "loss": 11,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Joe Neal",
+    "nickname": "Nine Lives",
+    "height": "5'6",
+    "weight": 135,
+    "win": 6,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Geoff Neal",
+    "nickname": "Handz of Steel",
+    "height": "5'11",
+    "weight": 170,
+    "win": 15,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Stanislav Nedkov",
+    "nickname": "Stucky",
+    "height": "5'11",
+    "weight": 205,
+    "win": 12,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Josh Neer",
+    "nickname": "The Dentist",
+    "height": "5'11",
+    "weight": 170,
+    "win": 36,
+    "loss": 16,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Nicolae Negumereanu",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 205,
+    "win": 13,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Steve Nelmark",
+    "nickname": "The Sandman",
+    "height": "6'0",
+    "weight": 240,
+    "win": 2,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shane Nelson",
+    "nickname": "Sugar",
+    "height": "5'9",
+    "weight": 155,
+    "win": 16,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Roy Nelson",
+    "nickname": "Big Country",
+    "height": "6'0",
+    "weight": 263,
+    "win": 22,
+    "loss": 14,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Gunnar Nelson",
+    "nickname": "Gunni",
+    "height": "5'11",
+    "weight": 170,
+    "win": 19,
+    "loss": 5,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Kyle Nelson",
+    "nickname": "The Monster",
+    "height": "5'11",
+    "weight": 145,
+    "win": 14,
+    "loss": 5,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Lissette Neri",
+    "nickname": "--",
+    "height": "5'2",
+    "weight": 145,
+    "win": 6,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Mario Neto",
+    "nickname": "Sukata",
+    "height": "6'0",
+    "weight": 229,
+    "win": 13,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Antonio Braga Neto",
+    "nickname": "--",
+    "height": "6'3",
+    "weight": 185,
+    "win": 9,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Eduardo Neves",
+    "nickname": "Bebezao",
+    "height": "6'2",
+    "weight": 265,
+    "win": 5,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Julio Cesar Neves Jr.",
+    "nickname": "Morceguinho",
+    "height": "5'8",
+    "weight": 145,
+    "win": 33,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Nick Newell",
+    "nickname": "Notorious",
+    "height": "5'10",
+    "weight": 155,
+    "win": 14,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Journey Newson",
+    "nickname": "--",
+    "height": "5'5",
+    "weight": 135,
+    "win": 10,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jeff Newton",
+    "nickname": "--",
+    "height": "6'2",
+    "weight": 205,
+    "win": 4,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Carlos Newton",
+    "nickname": "The Ronin",
+    "height": "5'9",
+    "weight": 170,
+    "win": 16,
+    "loss": 14,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Emanuel Newton",
+    "nickname": "The Hardcore Kid",
+    "height": "6'1",
+    "weight": 205,
+    "win": 26,
+    "loss": 12,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Francis Ngannou",
+    "nickname": "The Predator",
+    "height": "6'4",
+    "weight": 250,
+    "win": 17,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Ben Nguyen",
+    "nickname": "Ten",
+    "height": "5'5",
+    "weight": 125,
+    "win": 16,
+    "loss": 8,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Steven Nguyen",
+    "nickname": "The Ninja",
+    "height": "5'11",
+    "weight": 145,
+    "win": 8,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Alex Nicholson",
+    "nickname": "The Spartan",
+    "height": "6'4",
+    "weight": 185,
+    "win": 7,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Bo Nickal",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 185,
+    "win": 4,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Mike Nickels",
+    "nickname": "--",
+    "height": "6'4",
+    "weight": 205,
+    "win": 9,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Matheus Nicolau",
+    "nickname": "--",
+    "height": "5'6",
+    "weight": 125,
+    "win": 19,
+    "loss": 4,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Jaimelene Nievera",
+    "nickname": "Queenie",
+    "height": "5'5",
+    "weight": 125,
+    "win": 7,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Khomkrit Niimi",
+    "nickname": "The Bumblebee",
+    "height": "5'2",
+    "weight": 125,
+    "win": 6,
+    "loss": 10,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Tom Niinimaki",
+    "nickname": "Stoneface",
+    "height": "5'9",
+    "weight": 145,
+    "win": 22,
+    "loss": 8,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Ramsey Nijem",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 155,
+    "win": 9,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Hans Nijman",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 250,
+    "win": 9,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Fedor Nikolov",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jack Nilson",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 2,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Mats Nilsson",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 170,
+    "win": 11,
+    "loss": 4,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Guangyou Ning",
+    "nickname": "Smasher",
+    "height": "5'4",
+    "weight": 145,
+    "win": 5,
+    "loss": 4,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Soichi Nishida",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 320,
+    "win": 5,
+    "loss": 10,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Yosuke Nishijima",
+    "nickname": "--",
+    "height": "5'9",
+    "weight": 205,
+    "win": 0,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Yamato Nishikawa",
+    "nickname": "--",
+    "height": "5'7",
+    "weight": 155,
+    "win": 21,
+    "loss": 3,
+    "draw": 6,
+    "champion": false
+  },
+  {
+    "name": "Akiyo Nishiura",
+    "nickname": "Wicky Akiyo",
+    "height": "5'8",
+    "weight": 139,
+    "win": 13,
+    "loss": 8,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Anthony Njokuani",
+    "nickname": "The Assassin",
+    "height": "6'1",
+    "weight": 155,
+    "win": 16,
+    "loss": 12,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Chidi Njokuani",
+    "nickname": "Bang Bang",
+    "height": "6'3",
+    "weight": 185,
+    "win": 22,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Derrick Noble",
+    "nickname": "The Eraser",
+    "height": "5'9",
+    "weight": 170,
+    "win": 27,
+    "loss": 15,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Kyle Noblitt",
+    "nickname": "--",
+    "height": "6'2",
+    "weight": 243,
+    "win": 11,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Pedro Nobre",
+    "nickname": "The Rock",
+    "height": "5'5",
+    "weight": 135,
+    "win": 18,
+    "loss": 4,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Jacob Noe",
+    "nickname": "Psycho",
+    "height": "--",
+    "weight": 205,
+    "win": 3,
+    "loss": 11,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Antonio Rodrigo Nogueira",
+    "nickname": "Minotauro",
+    "height": "6'3",
+    "weight": 240,
+    "win": 34,
+    "loss": 10,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Rogerio Nogueira",
+    "nickname": "Minotouro",
+    "height": "6'2",
+    "weight": 205,
+    "win": 23,
+    "loss": 10,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Alexandre Franca Nogueira",
+    "nickname": "Pequeno",
+    "height": "5'7",
+    "weight": 145,
+    "win": 18,
+    "loss": 6,
+    "draw": 3,
+    "champion": false
+  },
+  {
+    "name": "Talita Nogueira",
+    "nickname": "Treta",
+    "height": "5'10",
+    "weight": 145,
+    "win": 6,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Kyle Noke",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 170,
+    "win": 22,
+    "loss": 10,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Tom Nolan",
+    "nickname": "Big Train",
+    "height": "--",
+    "weight": 155,
+    "win": 5,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Nick Nolte",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 170,
+    "win": 5,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "KJ Noons",
+    "nickname": "King",
+    "height": "5'10",
+    "weight": 155,
+    "win": 13,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Sage Northcutt",
+    "nickname": "Super",
+    "height": "6'0",
+    "weight": 170,
+    "win": 11,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jan Nortje",
+    "nickname": "The Giant",
+    "height": "6'1",
+    "weight": 310,
+    "win": 2,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Scott Norton",
+    "nickname": "Hollywood",
+    "height": "5'10",
+    "weight": 170,
+    "win": 7,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shohei Nose",
+    "nickname": "--",
+    "height": "5'6",
+    "weight": 135,
+    "win": 10,
+    "loss": 4,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Jonatas Novaes",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 170,
+    "win": 13,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jason Novelli",
+    "nickname": "Flipside",
+    "height": "6'0",
+    "weight": 155,
+    "win": 11,
+    "loss": 3,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Phillipe Nover",
+    "nickname": "The Filipino Assassin",
+    "height": "5'9",
+    "weight": 145,
+    "win": 11,
+    "loss": 8,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Taiyilake Nueraji",
+    "nickname": "Super Saiyan",
+    "height": "6'2",
+    "weight": 170,
+    "win": 9,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shayilan Nuerdanbieke",
+    "nickname": "Wolverine",
+    "height": "5'8",
+    "weight": 145,
+    "win": 39,
+    "loss": 11,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Diego Nunes",
+    "nickname": "The Gun",
+    "height": "5'6",
+    "weight": 145,
+    "win": 19,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Amanda Nunes",
+    "nickname": "The Lioness",
+    "height": "5'8",
+    "weight": 135,
+    "win": 23,
+    "loss": 5,
+    "draw": 0,
+    "champion": true
+  },
+  {
+    "name": "Nina Nunes",
+    "nickname": "--",
+    "height": "5'5",
+    "weight": 125,
+    "win": 11,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Istela Nunes",
+    "nickname": "--",
+    "height": "5'4",
+    "weight": 115,
+    "win": 6,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Josiane Nunes",
+    "nickname": "Josi",
+    "height": "5'2",
+    "weight": 145,
+    "win": 10,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Khabib Nurmagomedov",
+    "nickname": "The Eagle",
+    "height": "5'10",
+    "weight": 155,
+    "win": 29,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Said Nurmagomedov",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 135,
+    "win": 17,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Abubakar Nurmagomedov",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 170,
+    "win": 17,
+    "loss": 4,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Umar Nurmagomedov",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 135,
+    "win": 16,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Kennedy Nzechukwu",
+    "nickname": "African Savage",
+    "height": "6'5",
+    "weight": 205,
+    "win": 12,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jake O'Brien",
+    "nickname": "Irish",
+    "height": "6'3",
+    "weight": 205,
+    "win": 15,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "TJ O'Brien",
+    "nickname": "The Spider",
+    "height": "6'2",
+    "weight": 155,
+    "win": 20,
+    "loss": 8,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Sean O'Connell",
+    "nickname": "The Real OC",
+    "height": "6'1",
+    "weight": 205,
+    "win": 17,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Dan O'Connor",
+    "nickname": "Johnny Irish",
+    "height": "5'4",
+    "weight": 115,
+    "win": 6,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Sean O'Haire",
+    "nickname": "--",
+    "height": "6'5",
+    "weight": 270,
+    "win": 4,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Sean O'Malley",
+    "nickname": "Sugar",
+    "height": "5'11",
+    "weight": 135,
+    "win": 16,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jeremiah O'Neal",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 260,
+    "win": 13,
+    "loss": 25,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Chuck O'Neil",
+    "nickname": "Cold Steel",
+    "height": "6'2",
+    "weight": 170,
+    "win": 17,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Casey O'Neill",
+    "nickname": "King",
+    "height": "5'6",
+    "weight": 125,
+    "win": 9,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Brendan O'Reilly",
+    "nickname": "Badger",
+    "height": "5'7",
+    "weight": 170,
+    "win": 6,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Takahiro Oba",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 200,
+    "win": 5,
+    "loss": 7,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Nobuhiro Obiya",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 145,
+    "win": 12,
+    "loss": 5,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Christian Ocon",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 135,
+    "win": 2,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Richard Odoms",
+    "nickname": "The Black Eagle",
+    "height": "6'5",
+    "weight": 265,
+    "win": 13,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Volkan Oezdemir",
+    "nickname": "No Time",
+    "height": "6'2",
+    "weight": 205,
+    "win": 18,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Naoya Ogawa",
+    "nickname": "--",
+    "height": "6'4",
+    "weight": 255,
+    "win": 7,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Trey Ogden",
+    "nickname": "Samurai Ghost",
+    "height": "5'11",
+    "weight": 155,
+    "win": 16,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Andy Ogle",
+    "nickname": "The Little Axe",
+    "height": "5'8",
+    "weight": 145,
+    "win": 9,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Ho Taek Oh",
+    "nickname": "Spider",
+    "height": "--",
+    "weight": 155,
+    "win": 7,
+    "loss": 2,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Michiyoshi Ohara",
+    "nickname": "--",
+    "height": "5'10",
+    "weight": 205,
+    "win": 0,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Koji Oishi",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 170,
+    "win": 25,
+    "loss": 10,
+    "draw": 10,
+    "champion": false
+  },
+  {
+    "name": "Takayuki Okada",
+    "nickname": "Giant Ochiai",
+    "height": "6'1",
+    "weight": 290,
+    "win": 3,
+    "loss": 3,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Yushin Okami",
+    "nickname": "Thunder",
+    "height": "6'2",
+    "weight": 170,
+    "win": 34,
+    "loss": 12,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "JJ Okanovich",
+    "nickname": "The Bosnian Bomber",
+    "height": "5'11",
+    "weight": 155,
+    "win": 7,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Bolaji Oki",
+    "nickname": "The Zulu Warrior",
+    "height": "--",
+    "weight": 155,
+    "win": 7,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Kazuki Okubo",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 175,
+    "win": 7,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Masakatsu Okuda",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 8,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Aleksei Oleinik",
+    "nickname": "The Boa Constrictor",
+    "height": "6'2",
+    "weight": 240,
+    "win": 60,
+    "loss": 17,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Michal Oleksiejczuk",
+    "nickname": "Hussar",
+    "height": "6'0",
+    "weight": 185,
+    "win": 18,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Rafaello Oliveira",
+    "nickname": "Tractor",
+    "height": "5'8",
+    "weight": 155,
+    "win": 17,
+    "loss": 8,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Charles Oliveira",
+    "nickname": "Do Bronxs",
+    "height": "5'10",
+    "weight": 155,
+    "win": 34,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jorge Oliveira",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 205,
+    "win": 5,
+    "loss": 3,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Ednaldo Oliveira",
+    "nickname": "Lula",
+    "height": "6'5",
+    "weight": 205,
+    "win": 17,
+    "loss": 3,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Alex Oliveira",
+    "nickname": "Cowboy",
+    "height": "5'11",
+    "weight": 170,
+    "win": 22,
+    "loss": 12,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Maria Oliveira",
+    "nickname": "Spider-Girl",
+    "height": "5'6",
+    "weight": 115,
+    "win": 13,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Bruno Oliveira",
+    "nickname": "--",
+    "height": "6'4",
+    "weight": 205,
+    "win": 8,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Saimon Oliveira",
+    "nickname": "--",
+    "height": "5'4",
+    "weight": 135,
+    "win": 18,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Wendell Oliveira Marques",
+    "nickname": "The Machine",
+    "height": "5'10",
+    "weight": 170,
+    "win": 29,
+    "loss": 10,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Felipe Olivieri",
+    "nickname": "--",
+    "height": "5'9",
+    "weight": 155,
+    "win": 14,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Andy Ologun",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 154,
+    "win": 3,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shana Olsen",
+    "nickname": "Rock Solid",
+    "height": "5'7",
+    "weight": 145,
+    "win": 5,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Casey Olson",
+    "nickname": "The Underdog",
+    "height": "5'7",
+    "weight": 145,
+    "win": 14,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Dennis Olson",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 170,
+    "win": 14,
+    "loss": 11,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Cameron Olson",
+    "nickname": "Cap'n Crunch",
+    "height": "6'1",
+    "weight": 205,
+    "win": 7,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Gadzhi Omargadzhiev",
+    "nickname": "--",
+    "height": "6'1",
+    "weight": 170,
+    "win": 13,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Alan Omer",
+    "nickname": "--",
+    "height": "5'10",
+    "weight": 145,
+    "win": 20,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Daniel Omielanczuk",
+    "nickname": "--",
+    "height": "6'0",
+    "weight": 247,
+    "win": 19,
+    "loss": 8,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Michihiro Omigawa",
+    "nickname": "--",
+    "height": "5'6",
+    "weight": 145,
+    "win": 17,
+    "loss": 14,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "David Onama",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 145,
+    "win": 10,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Charlie Ontiveros",
+    "nickname": "American Bad Boy",
+    "height": "6'2",
+    "weight": 155,
+    "win": 11,
+    "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Chibwikem Onyenegecha",
+    "nickname": "--",
+    "height": "6'3",
+    "weight": 185,
+    "win": 5,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Sam Oropeza",
+    "nickname": "--",
+    "height": "6'2",
+    "weight": 170,
+    "win": 13,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Brian Ortega",
+    "nickname": "T-City",
+    "height": "5'8",
+    "weight": 145,
+    "win": 15,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Tito Ortiz",
+    "nickname": "The People's Champ",
+    "height": "6'3",
+    "weight": 205,
+    "win": 19,
+    "loss": 12,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Jorge Ortiz",
+    "nickname": "The Naked Man",
+    "height": "6'0",
+    "weight": 185,
+    "win": 18,
+    "loss": 9,
+    "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Dustin Ortiz",
+    "nickname": "--",
+    "height": "5'5",
+    "weight": 125,
+    "win": 19,
+    "loss": 8,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Kenji Osawa",
+    "nickname": "--",
+    "height": "5'7",
+    "weight": 135,
+    "win": 20,
+    "loss": 11,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Ode Osbourne",
+    "nickname": "The Jamaican Sensation",
+    "height": "5'7",
+    "weight": 125,
+    "win": 12,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Kurt Osiander",
+    "nickname": "--",
+    "height": "--",
+    "weight": 185,
+    "win": 4,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Nick Osipczak",
+    "nickname": "--",
+    "height": "6'2",
+    "weight": 170,
+    "win": 6,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Nissen Osterneck",
+    "nickname": "--",
+    "height": "6'2",
+    "weight": 185,
+    "win": 12,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Rachael Ostovich",
+    "nickname": "--",
+    "height": "5'3",
+    "weight": 125,
+    "win": 4,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Pedro Otavio",
+    "nickname": "Te Pedro",
+    "height": "6'3",
+    "weight": 245,
+    "win": 19,
+    "loss": 8,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Alexander Otsuka",
+    "nickname": "The Diet Butcher",
+    "height": "6'1",
+    "weight": 205,
+    "win": 5,
+    "loss": 13,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Takafumi Otsuka",
+    "nickname": "--",
+    "height": "5'6",
+    "weight": 139,
+    "win": 22,
+    "loss": 13,
+    "draw": 2,
+    "champion": false
+  },
+  {
+    "name": "Zak Ottow",
+    "nickname": "The Barbarian",
+    "height": "5'11",
+    "weight": 170,
+    "win": 17,
+    "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Artur Oumakhanov",
+    "nickname": "--",
+    "height": "5'7",
+    "weight": 154,
+    "win": 9,
+    "loss": 6,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Sidney Outlaw",
+    "nickname": "--",
+    "height": "5'8",
+    "weight": 170,
+    "win": 8,
+    "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Alistair Overeem",
+    "nickname": "The Demolition Man",
+    "height": "6'4",
+    "weight": 265,
+    "win": 47,
+    "loss": 19,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Valentijn Overeem",
+    "nickname": "--",
+    "height": "6'3",
+    "weight": 230,
+    "win": 30,
+    "loss": 32,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Craig Oxley",
+    "nickname": "--",
+    "height": "5'9",
+    "weight": 155,
+    "win": 0,
+    "loss": 3,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Shungo Oyama",
+    "nickname": "--",
+    "height": "5'11",
+    "weight": 185,
+    "win": 14,
+    "loss": 19,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Alptekin Ozkilic",
+    "nickname": "The Turkish Delight",
+    "height": "5'5",
+    "weight": 125,
+    "win": 9,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Raquel Pa'aluhi",
     "nickname": "Rocky",
     "height": "5'7",
@@ -26136,6 +27186,16 @@
     "weight": 145,
     "win": 10,
     "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Luis Pajuelo",
+    "nickname": "Corazon de Leon",
+    "height": "--",
+    "weight": 145,
+    "win": 7,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -26472,10 +27532,10 @@
   {
     "name": "Billy Pasulatan",
     "nickname": "--",
-    "height": "--",
+    "height": "5'5",
     "weight": 125,
     "win": 10,
-    "loss": 2,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -26490,12 +27550,12 @@
     "champion": false
   },
   {
-    "name": "Wendris Patilima",
-    "nickname": "The Bad Boy",
-    "height": "--",
-    "weight": 170,
+    "name": "Windri Patilima",
+    "nickname": "--",
+    "height": "5'6",
+    "weight": 155,
     "win": 8,
-    "loss": 0,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -26790,6 +27850,16 @@
     "champion": false
   },
   {
+    "name": "Felipe Pena",
+    "nickname": "Preguica",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Matej Penaz",
     "nickname": "Money",
     "height": "6'3",
@@ -26943,7 +28013,7 @@
     "name": "Alex Pereira",
     "nickname": "Poatan",
     "height": "6'4",
-    "weight": 185,
+    "weight": 205,
     "win": 7,
     "loss": 2,
     "draw": 0,
@@ -27420,6 +28490,16 @@
     "champion": false
   },
   {
+    "name": "Fabiola Pidroni",
+    "nickname": "The Queen",
+    "height": "--",
+    "weight": 115,
+    "win": 5,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Oskar Piechota",
     "nickname": "Imadlo",
     "height": "6'0",
@@ -27495,7 +28575,7 @@
     "height": "5'7",
     "weight": 145,
     "win": 28,
-    "loss": 14,
+    "loss": 15,
     "draw": 0,
     "champion": false
   },
@@ -27695,7 +28775,7 @@
     "height": "6'3",
     "weight": 205,
     "win": 19,
-    "loss": 3,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -27797,6 +28877,16 @@
     "win": 31,
     "loss": 18,
     "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Carlos Prates",
+    "nickname": "Carlao",
+    "height": "--",
+    "weight": 170,
+    "win": 16,
+    "loss": 6,
+    "draw": 0,
     "champion": false
   },
   {
@@ -28037,726 +29127,6 @@
     "win": 27,
     "loss": 14,
     "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Jake O'Brien",
-    "nickname": "Irish",
-    "height": "6'3",
-    "weight": 205,
-    "win": 15,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "TJ O'Brien",
-    "nickname": "The Spider",
-    "height": "6'2",
-    "weight": 155,
-    "win": 20,
-    "loss": 8,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Sean O'Connell",
-    "nickname": "The Real OC",
-    "height": "6'1",
-    "weight": 205,
-    "win": 17,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Dan O'Connor",
-    "nickname": "Johnny Irish",
-    "height": "5'4",
-    "weight": 115,
-    "win": 6,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Sean O'Haire",
-    "nickname": "--",
-    "height": "6'5",
-    "weight": 270,
-    "win": 4,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Sean O'Malley",
-    "nickname": "Sugar",
-    "height": "5'11",
-    "weight": 135,
-    "win": 16,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jeremiah O'Neal",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 260,
-    "win": 13,
-    "loss": 25,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Chuck O'Neil",
-    "nickname": "Cold Steel",
-    "height": "6'2",
-    "weight": 170,
-    "win": 17,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Casey O'Neill",
-    "nickname": "King",
-    "height": "5'6",
-    "weight": 125,
-    "win": 9,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Brendan O'Reilly",
-    "nickname": "Badger",
-    "height": "5'7",
-    "weight": 170,
-    "win": 6,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Takahiro Oba",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 200,
-    "win": 5,
-    "loss": 7,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Nobuhiro Obiya",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 145,
-    "win": 12,
-    "loss": 5,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Christian Ocon",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 135,
-    "win": 2,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Richard Odoms",
-    "nickname": "The Black Eagle",
-    "height": "6'5",
-    "weight": 265,
-    "win": 13,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Volkan Oezdemir",
-    "nickname": "No Time",
-    "height": "6'2",
-    "weight": 205,
-    "win": 18,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Naoya Ogawa",
-    "nickname": "--",
-    "height": "6'4",
-    "weight": 255,
-    "win": 7,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Trey Ogden",
-    "nickname": "Samurai Ghost",
-    "height": "5'11",
-    "weight": 155,
-    "win": 16,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Andy Ogle",
-    "nickname": "The Little Axe",
-    "height": "5'8",
-    "weight": 145,
-    "win": 9,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Ho Taek Oh",
-    "nickname": "Spider",
-    "height": "--",
-    "weight": 155,
-    "win": 7,
-    "loss": 2,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Michiyoshi Ohara",
-    "nickname": "--",
-    "height": "5'10",
-    "weight": 205,
-    "win": 0,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Koji Oishi",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 170,
-    "win": 25,
-    "loss": 10,
-    "draw": 10,
-    "champion": false
-  },
-  {
-    "name": "Takayuki Okada",
-    "nickname": "Giant Ochiai",
-    "height": "6'1",
-    "weight": 290,
-    "win": 3,
-    "loss": 3,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Yushin Okami",
-    "nickname": "Thunder",
-    "height": "6'2",
-    "weight": 170,
-    "win": 34,
-    "loss": 12,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "JJ Okanovich",
-    "nickname": "The Bosnian Bomber",
-    "height": "5'11",
-    "weight": 155,
-    "win": 7,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Kazuki Okubo",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 175,
-    "win": 7,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Masakatsu Okuda",
-    "nickname": "--",
-    "height": "--",
-    "weight": "--",
-    "win": 8,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Aleksei Oleinik",
-    "nickname": "The Boa Constrictor",
-    "height": "6'2",
-    "weight": 240,
-    "win": 60,
-    "loss": 17,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Michal Oleksiejczuk",
-    "nickname": "Hussar",
-    "height": "6'0",
-    "weight": 185,
-    "win": 18,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Rafaello Oliveira",
-    "nickname": "Tractor",
-    "height": "5'8",
-    "weight": 155,
-    "win": 17,
-    "loss": 8,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Charles Oliveira",
-    "nickname": "Do Bronx",
-    "height": "5'10",
-    "weight": 155,
-    "win": 33,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Jorge Oliveira",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 205,
-    "win": 5,
-    "loss": 3,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Ednaldo Oliveira",
-    "nickname": "Lula",
-    "height": "6'5",
-    "weight": 205,
-    "win": 17,
-    "loss": 3,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Alex Oliveira",
-    "nickname": "Cowboy",
-    "height": "5'11",
-    "weight": 170,
-    "win": 22,
-    "loss": 12,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Maria Oliveira",
-    "nickname": "Spider-Girl",
-    "height": "5'6",
-    "weight": 115,
-    "win": 13,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Bruno Oliveira",
-    "nickname": "--",
-    "height": "6'4",
-    "weight": 205,
-    "win": 8,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Saimon Oliveira",
-    "nickname": "--",
-    "height": "5'4",
-    "weight": 135,
-    "win": 18,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Wendell Oliveira Marques",
-    "nickname": "The Machine",
-    "height": "5'10",
-    "weight": 170,
-    "win": 29,
-    "loss": 10,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Felipe Olivieri",
-    "nickname": "--",
-    "height": "5'9",
-    "weight": 155,
-    "win": 14,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Andy Ologun",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 154,
-    "win": 3,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Shana Olsen",
-    "nickname": "Rock Solid",
-    "height": "5'7",
-    "weight": 145,
-    "win": 5,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Casey Olson",
-    "nickname": "The Underdog",
-    "height": "5'7",
-    "weight": 145,
-    "win": 14,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Dennis Olson",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 170,
-    "win": 14,
-    "loss": 11,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Cameron Olson",
-    "nickname": "Cap'n Crunch",
-    "height": "6'1",
-    "weight": 205,
-    "win": 7,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Gadzhi Omargadzhiev",
-    "nickname": "--",
-    "height": "6'1",
-    "weight": 170,
-    "win": 13,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Alan Omer",
-    "nickname": "--",
-    "height": "5'10",
-    "weight": 145,
-    "win": 20,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Daniel Omielanczuk",
-    "nickname": "--",
-    "height": "6'0",
-    "weight": 247,
-    "win": 19,
-    "loss": 8,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Michihiro Omigawa",
-    "nickname": "--",
-    "height": "5'6",
-    "weight": 145,
-    "win": 17,
-    "loss": 14,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "David Onama",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 145,
-    "win": 10,
-    "loss": 2,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Charlie Ontiveros",
-    "nickname": "American Bad Boy",
-    "height": "6'2",
-    "weight": 155,
-    "win": 11,
-    "loss": 9,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Chibwikem Onyenegecha",
-    "nickname": "--",
-    "height": "6'3",
-    "weight": 185,
-    "win": 5,
-    "loss": 0,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Sam Oropeza",
-    "nickname": "--",
-    "height": "6'2",
-    "weight": 170,
-    "win": 13,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Brian Ortega",
-    "nickname": "T-City",
-    "height": "5'8",
-    "weight": 145,
-    "win": 15,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Tito Ortiz",
-    "nickname": "The People's Champ",
-    "height": "6'3",
-    "weight": 205,
-    "win": 19,
-    "loss": 12,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Jorge Ortiz",
-    "nickname": "The Naked Man",
-    "height": "6'0",
-    "weight": 185,
-    "win": 18,
-    "loss": 9,
-    "draw": 1,
-    "champion": false
-  },
-  {
-    "name": "Dustin Ortiz",
-    "nickname": "--",
-    "height": "5'5",
-    "weight": 125,
-    "win": 19,
-    "loss": 8,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Kenji Osawa",
-    "nickname": "--",
-    "height": "5'7",
-    "weight": 135,
-    "win": 20,
-    "loss": 11,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Ode Osbourne",
-    "nickname": "The Jamaican Sensation",
-    "height": "5'7",
-    "weight": 125,
-    "win": 12,
-    "loss": 5,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Kurt Osiander",
-    "nickname": "--",
-    "height": "--",
-    "weight": 185,
-    "win": 4,
-    "loss": 1,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Nick Osipczak",
-    "nickname": "--",
-    "height": "6'2",
-    "weight": 170,
-    "win": 6,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Nissen Osterneck",
-    "nickname": "--",
-    "height": "6'2",
-    "weight": 185,
-    "win": 12,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Rachael Ostovich",
-    "nickname": "--",
-    "height": "5'3",
-    "weight": 125,
-    "win": 4,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Pedro Otavio",
-    "nickname": "Te Pedro",
-    "height": "6'3",
-    "weight": 245,
-    "win": 19,
-    "loss": 8,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Alexander Otsuka",
-    "nickname": "The Diet Butcher",
-    "height": "6'1",
-    "weight": 205,
-    "win": 5,
-    "loss": 13,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Takafumi Otsuka",
-    "nickname": "--",
-    "height": "5'6",
-    "weight": 139,
-    "win": 22,
-    "loss": 13,
-    "draw": 2,
-    "champion": false
-  },
-  {
-    "name": "Zak Ottow",
-    "nickname": "The Barbarian",
-    "height": "5'11",
-    "weight": 170,
-    "win": 17,
-    "loss": 7,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Artur Oumakhanov",
-    "nickname": "--",
-    "height": "5'7",
-    "weight": 154,
-    "win": 9,
-    "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Sidney Outlaw",
-    "nickname": "--",
-    "height": "5'8",
-    "weight": 170,
-    "win": 8,
-    "loss": 4,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Alistair Overeem",
-    "nickname": "The Demolition Man",
-    "height": "6'4",
-    "weight": 265,
-    "win": 47,
-    "loss": 19,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Valentijn Overeem",
-    "nickname": "--",
-    "height": "6'3",
-    "weight": 230,
-    "win": 30,
-    "loss": 32,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Craig Oxley",
-    "nickname": "--",
-    "height": "5'9",
-    "weight": 155,
-    "win": 0,
-    "loss": 3,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Shungo Oyama",
-    "nickname": "--",
-    "height": "5'11",
-    "weight": 185,
-    "win": 14,
-    "loss": 19,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Alptekin Ozkilic",
-    "nickname": "The Turkish Delight",
-    "height": "5'5",
-    "weight": 125,
-    "win": 9,
-    "loss": 5,
-    "draw": 0,
     "champion": false
   },
   {
@@ -29040,6 +29410,16 @@
     "champion": false
   },
   {
+    "name": "Mitch Ramirez",
+    "nickname": "--",
+    "height": "--",
+    "weight": 170,
+    "win": 7,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Andrew Ramm",
     "nickname": "The",
     "height": "6'1",
@@ -29304,7 +29684,7 @@
     "nickname": "--",
     "height": "5'3",
     "weight": 115,
-    "win": 6,
+    "win": 7,
     "loss": 3,
     "draw": 0,
     "champion": false
@@ -29436,6 +29816,16 @@
     "weight": 170,
     "win": 14,
     "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Montserrat Rendon",
+    "nickname": "Monster",
+    "height": "--",
+    "weight": 135,
+    "win": 5,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -29610,6 +30000,16 @@
     "champion": false
   },
   {
+    "name": "Brendson Ribeiro",
+    "nickname": "The Gorilla",
+    "height": "--",
+    "weight": 205,
+    "win": 14,
+    "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Esteban Ribovics",
     "nickname": "El Gringo",
     "height": "5'10",
@@ -29696,6 +30096,16 @@
     "weight": 155,
     "win": 18,
     "loss": 4,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Haisam Rida",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 0,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -30180,6 +30590,16 @@
     "champion": false
   },
   {
+    "name": "Pedro Rocha",
+    "nickname": "--",
+    "height": "--",
+    "weight": "--",
+    "win": 1,
+    "loss": 0,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Keith Rockel",
     "nickname": "Rock",
     "height": "6'0",
@@ -30295,7 +30715,7 @@
     "height": "6'1",
     "weight": 170,
     "win": 17,
-    "loss": 3,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -30540,11 +30960,11 @@
     "champion": false
   },
   {
-    "name": "Rong Zhu",
+    "name": "-- Rongzhu",
     "nickname": "--",
     "height": "5'9",
     "weight": 155,
-    "win": 21,
+    "win": 23,
     "loss": 5,
     "draw": 0,
     "champion": false
@@ -30780,6 +31200,16 @@
     "champion": false
   },
   {
+    "name": "Cameron Rowston",
+    "nickname": "Van Damme",
+    "height": "--",
+    "weight": 185,
+    "win": 8,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Kain Royer",
     "nickname": "--",
     "height": "--",
@@ -30815,7 +31245,7 @@
     "height": "6'2",
     "weight": 242,
     "win": 13,
-    "loss": 4,
+    "loss": 5,
     "draw": 0,
     "champion": false
   },
@@ -31276,6 +31706,16 @@
     "weight": 125,
     "win": 14,
     "loss": 5,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Dylan Salvador",
+    "nickname": "--",
+    "height": "--",
+    "weight": 155,
+    "win": 5,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -31784,7 +32224,7 @@
     "nickname": "Willycat",
     "height": "5'7",
     "weight": 135,
-    "win": 11,
+    "win": 12,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -31795,6 +32235,16 @@
     "height": "5'9",
     "weight": 145,
     "win": 10,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Luana Santos",
+    "nickname": "--",
+    "height": "--",
+    "weight": 125,
+    "win": 5,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -31914,8 +32364,8 @@
     "nickname": "Sasuke",
     "height": "5'5",
     "weight": 145,
-    "win": 10,
-    "loss": 2,
+    "win": 11,
+    "loss": 3,
     "draw": 1,
     "champion": false
   },
@@ -31945,7 +32395,7 @@
     "height": "5'10",
     "weight": 170,
     "win": 16,
-    "loss": 6,
+    "loss": 7,
     "draw": 0,
     "champion": false
   },
@@ -32595,7 +33045,7 @@
     "height": "6'2",
     "weight": 185,
     "win": 12,
-    "loss": 3,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -32705,7 +33155,7 @@
     "height": "6'4",
     "weight": 250,
     "win": 16,
-    "loss": 11,
+    "loss": 12,
     "draw": 0,
     "champion": false
   },
@@ -32901,10 +33351,10 @@
   },
   {
     "name": "Ronal Siahaan",
-    "nickname": "--",
-    "height": "--",
+    "nickname": "Naga Sakti",
+    "height": "5'7",
     "weight": 125,
-    "win": 8,
+    "win": 7,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -33194,7 +33644,7 @@
     "nickname": "--",
     "height": "5'4",
     "weight": 125,
-    "win": 14,
+    "win": 15,
     "loss": 5,
     "draw": 1,
     "champion": false
@@ -33224,7 +33674,7 @@
     "nickname": "Killer",
     "height": "5'5",
     "weight": 125,
-    "win": 15,
+    "win": 16,
     "loss": 4,
     "draw": 0,
     "champion": false
@@ -33250,11 +33700,31 @@
     "champion": false
   },
   {
+    "name": "Jhonata Silva",
+    "nickname": "--",
+    "height": "--",
+    "weight": 125,
+    "win": 8,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Jean Silva",
+    "nickname": "Lord Assassin",
+    "height": "--",
+    "weight": 145,
+    "win": 10,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Douglas Silva de Andrade",
     "nickname": "D Silva",
     "height": "5'7",
     "weight": 135,
-    "win": 28,
+    "win": 29,
     "loss": 5,
     "draw": 0,
     "champion": false
@@ -33291,11 +33761,11 @@
   },
   {
     "name": "Sim Kai Xiong",
-    "nickname": "--",
-    "height": "--",
-    "weight": 135,
+    "nickname": "Kobra",
+    "height": "5'5",
+    "weight": 125,
     "win": 5,
-    "loss": 0,
+    "loss": 1,
     "draw": 0,
     "champion": false
   },
@@ -33401,11 +33871,11 @@
   },
   {
     "name": "Rana Rudra Pratap Singh",
-    "nickname": "Rajput",
-    "height": "--",
-    "weight": 145,
+    "nickname": "Ashwathama",
+    "height": "5'10",
+    "weight": 135,
     "win": 11,
-    "loss": 1,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -33655,7 +34125,7 @@
     "height": "6'4",
     "weight": 205,
     "win": 36,
-    "loss": 17,
+    "loss": 18,
     "draw": 0,
     "champion": false
   },
@@ -33766,6 +34236,16 @@
     "weight": 135,
     "win": 17,
     "loss": 9,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Cameron Smotherman",
+    "nickname": "The Baby-Faced Killer",
+    "height": "--",
+    "weight": 135,
+    "win": 8,
+    "loss": 3,
     "draw": 0,
     "champion": false
   },
@@ -33897,6 +34377,16 @@
     "win": 20,
     "loss": 7,
     "draw": 1,
+    "champion": false
+  },
+  {
+    "name": "Emrah Sonmez",
+    "nickname": "Anatolian Wolf",
+    "height": "--",
+    "weight": 145,
+    "win": 14,
+    "loss": 4,
+    "draw": 0,
     "champion": false
   },
   {
@@ -34112,10 +34602,10 @@
   {
     "name": "Ketlen Souza",
     "nickname": "Esquentadinha",
-    "height": "--",
+    "height": "5'3",
     "weight": 125,
     "win": 13,
-    "loss": 3,
+    "loss": 4,
     "draw": 0,
     "champion": false
   },
@@ -34355,7 +34845,7 @@
     "height": "5'6",
     "weight": 135,
     "win": 21,
-    "loss": 5,
+    "loss": 6,
     "draw": 1,
     "champion": false
   },
@@ -35540,6 +36030,16 @@
     "champion": false
   },
   {
+    "name": "Ramon Taveras",
+    "nickname": "The Savage",
+    "height": "--",
+    "weight": 145,
+    "win": 7,
+    "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Paul Taylor",
     "nickname": "Relentless",
     "height": "6'0",
@@ -36402,9 +36902,9 @@
   {
     "name": "Rei Tsuruya",
     "nickname": "--",
-    "height": "--",
+    "height": "5'6",
     "weight": 125,
-    "win": 6,
+    "win": 7,
     "loss": 0,
     "draw": 0,
     "champion": false
@@ -36511,10 +37011,10 @@
   },
   {
     "name": "Nyamjargal Tumendemberel",
-    "nickname": "--",
-    "height": "--",
+    "nickname": "Art of Knockout",
+    "height": "5'7",
     "weight": 125,
-    "win": 6,
+    "win": 7,
     "loss": 0,
     "draw": 0,
     "champion": false
@@ -36664,7 +37164,7 @@
     "nickname": "Black Jag",
     "height": "6'4",
     "weight": 205,
-    "win": 8,
+    "win": 9,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -36754,7 +37254,7 @@
     "nickname": "The RGV Bad Boy",
     "height": "6'3",
     "weight": 170,
-    "win": 6,
+    "win": 7,
     "loss": 3,
     "draw": 0,
     "champion": false
@@ -36906,6 +37406,16 @@
     "weight": 135,
     "win": 5,
     "loss": 7,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Kevin Vallejos",
+    "nickname": "El Chino",
+    "height": "--",
+    "weight": 145,
+    "win": 11,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -37146,6 +37656,16 @@
     "weight": 135,
     "win": 2,
     "loss": 1,
+    "draw": 0,
+    "champion": false
+  },
+  {
+    "name": "Greg Velasco",
+    "nickname": "The Viking King",
+    "height": "--",
+    "weight": "--",
+    "win": 6,
+    "loss": 0,
     "draw": 0,
     "champion": false
   },
@@ -37413,7 +37933,7 @@
     "name": "Ketlen Vieira",
     "nickname": "Fenomeno",
     "height": "5'8",
-    "weight": 125,
+    "weight": 135,
     "win": 13,
     "loss": 3,
     "draw": 0,
@@ -37590,6 +38110,16 @@
     "champion": false
   },
   {
+    "name": "Mateo Vogel",
+    "nickname": "Carrapato",
+    "height": "--",
+    "weight": 155,
+    "win": 8,
+    "loss": 2,
+    "draw": 0,
+    "champion": false
+  },
+  {
     "name": "Alexander Volkanovski",
     "nickname": "The Great",
     "height": "5'6",
@@ -37744,7 +38274,7 @@
     "nickname": "--",
     "height": "6'6",
     "weight": 205,
-    "win": 20,
+    "win": 21,
     "loss": 7,
     "draw": 0,
     "champion": false
@@ -38614,7 +39144,7 @@
     "nickname": "--",
     "height": "6'3",
     "weight": 235,
-    "win": 8,
+    "win": 9,
     "loss": 1,
     "draw": 0,
     "champion": false
@@ -38980,6 +39510,16 @@
     "champion": false
   },
   {
+    "name": "Wuziazibieke Jiahefu",
+    "nickname": "Prairie Kitty",
+    "height": "5'9",
+    "weight": 145,
+    "win": 29,
+    "loss": 12,
+    "draw": 1,
+    "champion": false
+  },
+  {
     "name": "Rubens Xavier",
     "nickname": "Macula",
     "height": "6'3",
@@ -38994,7 +39534,7 @@
     "nickname": "--",
     "height": "5'8",
     "weight": 135,
-    "win": 24,
+    "win": 25,
     "loss": 7,
     "draw": 0,
     "champion": false
@@ -39260,23 +39800,23 @@
     "champion": false
   },
   {
-    "name": "Yi Zha",
-    "nickname": "--",
-    "height": "5'7",
+    "name": "-- Yibugele",
+    "nickname": "Eagle",
+    "height": "5'9",
     "weight": 145,
     "win": 21,
-    "loss": 4,
-    "draw": 0,
+    "loss": 12,
+    "draw": 1,
     "champion": false
   },
   {
-    "name": "-- Yibugele",
+    "name": "-- Yizha",
     "nickname": "--",
-    "height": "--",
-    "weight": 155,
-    "win": 21,
-    "loss": 11,
-    "draw": 1,
+    "height": "5'7",
+    "weight": 145,
+    "win": 23,
+    "loss": 4,
+    "draw": 0,
     "champion": false
   },
   {
@@ -39320,12 +39860,12 @@
     "champion": false
   },
   {
-    "name": "Sanghoon Yoo",
+    "name": "SangHoon Yoo",
     "nickname": "Assassin",
     "height": "6'0",
-    "weight": 155,
-    "win": 5,
-    "loss": 1,
+    "weight": 170,
+    "win": 8,
+    "loss": 2,
     "draw": 0,
     "champion": false
   },
@@ -39494,7 +40034,7 @@
     "nickname": "--",
     "height": "5'8",
     "weight": 135,
-    "win": 9,
+    "win": 10,
     "loss": 2,
     "draw": 0,
     "champion": false
@@ -39524,7 +40064,7 @@
     "nickname": "Capoeira",
     "height": "5'11",
     "weight": 170,
-    "win": 23,
+    "win": 24,
     "loss": 7,
     "draw": 0,
     "champion": false
@@ -39656,16 +40196,6 @@
     "weight": 205,
     "win": 16,
     "loss": 6,
-    "draw": 0,
-    "champion": false
-  },
-  {
-    "name": "Daermisi Zhawupasi",
-    "nickname": "--",
-    "height": "--",
-    "weight": 135,
-    "win": 6,
-    "loss": 0,
     "draw": 0,
     "champion": false
   },
